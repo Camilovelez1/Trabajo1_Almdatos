@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 requests = "*"
+boto3 = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
