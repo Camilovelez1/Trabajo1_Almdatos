@@ -1,1 +1,4 @@
 .DS_Store
+/datos
+datos.zip
+.env
