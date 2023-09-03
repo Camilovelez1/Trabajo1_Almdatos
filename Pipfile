@@ -7,6 +7,11 @@ name = "pypi"
 requests = "*"
 boto3 = "*"
 python-dotenv = "*"
+plotly = "*"
+pandas = "*"
+fsspec = "*"
+s3fs = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
