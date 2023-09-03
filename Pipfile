@@ -12,6 +12,7 @@ pandas = "*"
 fsspec = "*"
 s3fs = "*"
 nbformat = "*"
+azure-storage-blob = "*"
 
 [dev-packages]
 ipykernel = "*"
